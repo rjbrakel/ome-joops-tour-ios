@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OJT/Models/Scoreboard.swift"
+            timestampString = "488120319.393812"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "ScoreboardService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OJT.ScoreboardService.__deallocating_deinit"
+                  moduleName = "OJT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/Desktop/ojt-ios/OJT/Models/Scoreboard.swift"
+                  timestampString = "488188615.294789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OJT.ScoreboardService.deinit"
+                  moduleName = "OJT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/Desktop/ojt-ios/OJT/Models/Scoreboard.swift"
+                  timestampString = "488188615.295018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OJT.ScoreboardService.init () -&gt; OJT.ScoreboardService"
+                  moduleName = "OJT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/Desktop/ojt-ios/OJT/Models/Scoreboard.swift"
+                  timestampString = "488188615.295173"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OJT/Models/Scoreboard.swift"
+            timestampString = "488120321.693628"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "ScoreboardService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OJT.ScoreboardService.__deallocating_deinit"
+                  moduleName = "OJT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/Desktop/ojt-ios/OJT/Models/Scoreboard.swift"
+                  timestampString = "488188615.297137"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OJT.ScoreboardService.deinit"
+                  moduleName = "OJT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/Desktop/ojt-ios/OJT/Models/Scoreboard.swift"
+                  timestampString = "488188615.297319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OJT.ScoreboardService.init () -&gt; OJT.ScoreboardService"
+                  moduleName = "OJT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robin/Desktop/ojt-ios/OJT/Models/Scoreboard.swift"
+                  timestampString = "488188615.29747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

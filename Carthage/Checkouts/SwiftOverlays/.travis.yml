@@ -1,0 +1,10 @@
+language: objective-c
+osx_image: xcode7.3
+env:
+  global:
+  - APP_NAME="SwiftOverlays"
+before_script:
+  - brew update
+  - brew outdated xctool || brew upgrade xctool
+script:
+  - xctool -project Example/Example.xcodeproj -scheme SwiftOverlays-example-debug -sdk iphonesimulator9.3 test
